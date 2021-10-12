@@ -1,7 +1,7 @@
 # medium_redux_vs_hooks
 Github repository accompanying the medium article comparing Redux and React Hooks
 
-Link to medium article: <a href="https://ankittrehan2000.medium.com/react-hooks-vs-redux-for-application-state-management-3c6d2f2e138">React Hooks vs Redux for application state management</a>
+Link to Medium article: <a href="https://ankittrehan2000.medium.com/react-hooks-vs-redux-for-application-state-management-3c6d2f2e138">React Hooks vs Redux for application state management</a>
 
 ## Hooks Demo:
 
